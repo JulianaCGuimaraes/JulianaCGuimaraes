@@ -1,7 +1,7 @@
 ### Olá! Eu sou Juliana Guimarães 👋
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente estudando JavaScript e Java
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
