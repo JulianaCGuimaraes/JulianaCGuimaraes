@@ -1,7 +1,7 @@
 ### Olá! Eu sou Juliana Guimarães 👋
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 Atualmente estudando JavaScript e Java
+- 🌱 Atualmente estudando JavaScript, TypeScript, Nest e Java
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
@@ -21,6 +21,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
   <img align="right" alt="Gif" height="130" width="190" src="https://pa1.narvii.com/6323/9922b84321163f39c3918f3312144ac90f949b19_hq.gif" data-canonical-src="https://media.discordapp.net/attachments/900145521396703263/900145575499034684/icgsbr_gif.gif?width=456&amp;height=456" style="max-width: 100%;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+          
 </div>
 <h2 dir="auto"></h2>
 </a>
