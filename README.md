@@ -1,7 +1,7 @@
 ### Olá! Eu sou Juliana Guimarães 👋
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 Atualmente estudando JavaScript, TypeScript, Nest e Java
+- 🌱 Atualmente estudando JavaScript, TypeScript e Nest.
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
