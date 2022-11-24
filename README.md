@@ -1,19 +1,19 @@
-### Olá! Eu sou Juliana Guimarães 👋
+### Oii! Eu sou Juliana Guimarães 👋
 
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 Atualmente estudando TypeScript e Prisma.
-<!--- 👯 I’m looking to collaborate on ...-->
-<!--- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
 - 😄 Pronouns: Ela/Dela
-<!--- ⚡ Fun fact: 
-...-->
+<br>
+<div>
+ <a href="https://github.com/JulianaCGuimaraes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaCGuimaraes&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaCGuimaraes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight">
+</div>
 
-<a href="https://github.com/JulianaCGuimaraes">
-<div dir="auto">
-  <br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+<br>
+  
+<div>    
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
    <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"> 
@@ -21,7 +21,10 @@
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="max-width: 100%;">     
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"> 
+  <img align="right" height="140" width="210"  src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"   style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
+
+
 <h2 dir="auto"></h2>
 </a>
 <div dir="auto">
