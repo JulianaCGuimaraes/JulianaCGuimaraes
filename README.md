@@ -21,7 +21,7 @@
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="max-width: 100%;">     
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"> 
-  <img align="right" height="150" width="150" src="https://i.picasion.com/pic92/840c47d71694d51d0436600b8abaca5d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img align="right" height="140" width="140" src="https://i.picasion.com/pic92/840c47d71694d51d0436600b8abaca5d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 
