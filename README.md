@@ -1,6 +1,5 @@
-### Oii! Eu sou Juliana Guimarães 👋
+### Oii! Eu sou Juliana Guimarães 
 
-<!--- 🔭 I’m currently working on ...-->
 - 🌱 Atualmente estudando TypeScript e Prisma.
 - 😄 Pronouns: Ela/Dela
 <br>
