@@ -1,16 +1,16 @@
 ### Oii! Eu sou Juliana Guimarães 
 
-- 🌱 Atualmente estudando TypeScript e Prisma.
+- 🌱 Atualmente estudando TypeScript, Prisma e C#.
 - 😄 Pronouns: Ela/Dela
 <br>
-<div>
- <a href="https://github.com/JulianaCGuimaraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianacguimaraes&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianacguimaraes&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight">
-</div>
 
-<br>
+ <div>
+<a href="https://github.com/JulianaCGuimaraes">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaCGuimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaCGuimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
   
+<br> 
 <div>    
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
@@ -20,7 +20,9 @@
   <img align="center" alt="Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="max-width: 100%;">     
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="max-width: 100%;"> 
-  <img align="right" height="140" width="140" src="https://i.picasion.com/pic92/840c47d71694d51d0436600b8abaca5d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="max-width: 100%;"/>
+ 
+ <img align="right" height="140" width="140" src="https://i.picasion.com/pic92/840c47d71694d51d0436600b8abaca5d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 
 
