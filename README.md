@@ -1,6 +1,6 @@
 ### Oii! Eu sou Juliana Guimarães 
 
-- 🌱 Atualmente estudando TypeScript, Prisma, GraphQL e C#.
+- 🌱 Atualmente estudando NestJS, Prisma, GraphQL e ReactJS.
 - 😄 Pronouns: Ela/Dela
 <br>
 
