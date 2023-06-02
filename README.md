@@ -6,8 +6,8 @@
 
  <div>
 <a href="https://github.com/JulianaCGuimaraes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaCGuimaraes&layout=compact&langs_count=7&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaCGuimaraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianaCGuimaraes&amp&show_icons=true&amp&include_all_commits=true&amp&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaCGuimaraes&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
   
 <br> 
