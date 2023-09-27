@@ -1,6 +1,6 @@
 ### Oii! Eu sou Juliana Guimarães 
 
-- 🌱 Atualmente estudando C# e ReactJS.
+- 🌱 Atualmente estudando React.
 - 😄 Pronouns: Ela/Dela
 <br>
 
